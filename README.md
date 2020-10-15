@@ -1,4 +1,4 @@
-# datascience
+# DataScience
 
 This repository contains pandas,numpy arrays. 
 Pandas is widely used in datascience.
